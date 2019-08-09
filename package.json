@@ -1,0 +1,22 @@
+{
+  "name": "lodown-amber-jones",
+  "version": "1.0.0",
+  "description": "first npm package ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "instanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amber-jones/lodown.git"
+  },
+  "author": "Amber Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amber-jones/lodown/issues"
+  },
+  "homepage": "https://github.com/amber-jones/lodown#readme"
+}
